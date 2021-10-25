@@ -1,0 +1,30 @@
+# tugas-individu-3
+
+1. Orang yang pertama kali menulis program Hello World adalah Brian Kernighan. Program Hello World pertama kali 
+muncul di dunia pada tahun 1972. Program Hello World pertama kali diperkenalkan pada dokumentasi/tutorial bahasa 
+pemrograman B. Dokumentasi tersebut terbit pada tahun 1972. Kemudian, Hello World digunakan kembali pada dokumentasi 
+bahasa pemrograman C. Hello world umumnya adalah program komputer yang mengeluarkan atau menampilkan pesan "Hello World". 
+Program semacam itu sangat sederhana di sebagian besar bahasa pemrograman, dan sering digunakan untuk menggambarkan 
+syntax dasar bahasa pemrograman. Ini seringkali merupakan program pertama yang ditulis oleh orang-orang yang belajar kode.
+Ini juga dapat digunakan sebagai tes kewarasan untuk memastikan bahwa bahasa komputer diinstal dengan benar dan bahwa operator
+memahami cara menggunakannya. Brian Kernighan sebenarnya tidak ingat betul, mengapa beliau menggunakan kata Hello World. Namun, 
+berdasarkan wawancara Forbes India, beliau menyatakan: "Ingatan saya sangat suram sekarang. Apa yang saya ingat adalah sebuah
+kartun yang menampilkan seekor telur dan anak ayam, dan anak ayam itu mengatakan “Hello, world!".
+
+2. Arti dari print() adalah function(fungsi). Fungsi print() digunakan untuk mencetak ouput program di layar.
+
+3. Dalam bahasa python untuk mencetak cakup menggunakan fungsi print, dimana sesuatu yang akan dicetak harus di 
+letakkan diantara kurung buka dan kurung tutup dengan tanda petik (""), seperti di soal yang akan mencetak kalimat "hello world".
+ 
+4. eksekusi terminal dan vs-code
+a. terminal
+1. buka terminal CTRL+ALT+T
+2. ketik python otomatis masuk ke python shell
+3. tuliskan script contohnya: print("hello world"). Jika sudah pencet enter, dan script akan dijalankan/dieksekusi.
+4. jika ingin keluar dari python shell ketik exit()
+b. vs-code
+1. pasang existensi python di vscode
+2. buat folder codingan yang akan di buat
+3. buka folder dan jalankan menggunakan existensi, klik tanda run di pojok atas kanan.
+4. hasil akan keluar di terminal.
+
